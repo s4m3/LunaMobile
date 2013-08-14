@@ -8,5 +8,7 @@
 /Library/cache/
 /Library/previews/
 /Library/ScriptAssemblies
+/Library/
+/builds/
 /obj
 /Temp
